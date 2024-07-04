@@ -1,0 +1,831 @@
+@media(max-width:980px){
+
+    
+
+    .home{
+        height: auto;
+        display: flex;
+        justify-content: space-evenly;
+    }
+    .home .home1{
+        margin-top: 20px;
+        height: auto;
+        width: 45%;
+    }
+    .home .home2{
+        margin-top: 50px;
+        width: 45%;
+        height: auto;
+    }
+    .home .home2 img{
+        width: 100%;
+        height: auto;
+    }
+
+    .featured{
+        height: auto;
+        width: 100%;
+    }
+    .featured2{
+        height: auto;
+        width: 100%;
+        display: flex;
+        justify-content: space-evenly;
+        margin-left: 0%;
+    }
+    
+    .featured2 .con{
+        margin: 0;
+    }
+    
+    
+    .featured3{
+        height: auto;
+        width: 100%;
+        display: flex;
+        justify-content: space-evenly;
+        margin-left: 0%;
+    }
+    
+    .featured3 .f1 img{
+        height: auto;
+        width: 100%;
+    }
+
+    .featured3 .con{
+        margin: 0;
+    }
+    
+    .aewsome{
+        margin-top: 50px;
+        height: auto;
+        width: 100%;
+    }
+    .aewsome1{
+        height: 120px;
+        width: 85%;
+    }
+    .aewsome1 h1{
+        font-size: 30px;
+        margin-top: 20px;
+    }
+    .aewsome1 span{
+        margin-left: 20px;
+    }
+    .aewsome1 h5{
+        margin: 0;
+        bottom: 0;
+    }
+    .aewsome2{
+        margin-top: 20px;
+        height: auto;
+        width: 100%;
+    }
+    .aewsome2 .a1{
+        /* height: 500px; */
+        width: 23%;
+    }
+    .aewsome3{
+        margin-top: 20px;
+        height: auto;
+        width: 100%;
+    }
+    .aewsome3 .a1{
+        width: 23%;
+    }
+    
+    .weekly .img{
+        display: flex;
+        flex-direction: column;
+        height: auto;
+        width: 100%;
+    }
+    .weekly .wek{
+
+        height: auto;
+        width: 100%;
+    }
+    .wek input{
+        width: 250px;
+    }
+    .best{
+        height: auto;
+        width: 100%;
+    }
+    .best2{
+        height: auto;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+        width: 100%;
+    }
+    .best2 .a1{
+        width: 23%;
+    }
+    .sub{
+        height: 400px;
+        width: 100%;
+    }
+    .sub .sub1{
+        height: auto;
+        width: 90%;
+    }
+    .brand{
+        width: 90%;
+        height: auto;
+    }
+    
+    
+    footer{
+        margin: 0;
+        width: 100%;
+        height: auto;
+        display: flex;
+        flex-wrap: wrap;
+    }
+    
+        
+}   
+
+@media(max-width:720px){
+
+    header{
+        display: flex;
+        height: auto;
+    }
+    .logo{
+        width: 25%;
+        height: 50px;
+    }
+    .menu{
+        width: 55%;
+        height: 50px;
+    }
+    .icon{
+        width: 15%;
+        height: 50px;
+    }
+    
+
+    .home{
+        display: flex;
+        flex-direction: column;
+        height: auto;
+    }
+    .home .home1{
+        margin-top: 20px;
+        height: auto;
+        width: 90%;
+    }
+    .home .home1 h1{
+        font-size: 50px;
+        line-height: 60px;
+    }
+    .home .home1 p{
+        font-size: 16px;
+    }
+    .home .home1 button{
+        height: 40px;
+        width: 150px;
+    }
+
+    .home .home2{
+        margin-top: 50px;
+        width: 90%;
+        height: auto;
+    }
+    .home .home2 img{
+        width: 100%;
+        height: auto;
+    }
+    .featured{
+        height: auto;
+        width: 100%;
+    }
+    .featured2{
+        height: auto;
+        width: 100%;
+        display: flex;
+        justify-content: space-evenly;
+        margin-left: 0%;
+    }
+    .featured2 .f1{
+        width: 45%;
+        height: 450px;
+    }
+    .featured2 .con{
+        margin: 0;
+    }
+    .featured2 .f2{
+        width: 45%;
+        height: 450px;
+    }
+    
+    .featured3{
+        height: auto;
+        width: 100%;
+        display: flex;
+        justify-content: space-evenly;
+        margin-left: 0%;
+    }
+    .featured3 .f1{
+        width: 45%;
+        height: 350px;
+    }
+    .featured3 .f1 img{
+        height: auto;
+        width: 100%;
+    }
+
+    .featured3 .con{
+        margin: 0;
+    }
+    .featured3 .f2{
+        width: 45%;
+        height: 350px;
+        display: flex;
+        flex-direction: column;
+    }
+    .aewsome{
+        margin-top: 50px;
+        height: auto;
+        width: 100%;
+    }
+    .aewsome1{
+        height: 120px;
+        width: 85%;
+    }
+    .aewsome1 h1{
+        font-size: 30px;
+        margin-top: 20px;
+    }
+    .aewsome1 span{
+        margin-left: 20px;
+    }
+    .aewsome1 h5{
+        margin: 0;
+        bottom: 0;
+    }
+    .aewsome2{
+        height: auto;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+        width: 100%;
+    }
+    .aewsome2 .a1{
+        /* height: 500px; */
+        width: 45%;
+    }
+    .aewsome3{
+        height: auto;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+        width: 100%;
+    }
+    .aewsome3 .a1{
+        /* height: 500px; */
+        width: 45%;
+    }
+    .weekly{
+        height: auto;
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+    }
+    .weekly .img{
+        display: flex;
+        flex-direction: column;
+        height: auto;
+        width: 100%;
+    }
+    .weekly .wek{
+
+        height: auto;
+        width: 100%;
+    }
+    .wek h1{
+        font-size: 40px;
+        text-align: center;
+    }
+    .wek input{
+        width: 280px;
+        margin-left: 23%;
+        margin-bottom: 20px;
+    }
+    .best{
+        height: auto;
+        width: 100%;
+    }
+    .best2{
+        height: auto;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+        width: 100%;
+    }
+    .best2 .a1{
+        width: 45%;
+    }
+    .sub{
+        height: auto;
+        width: 100%;
+    }
+    .sub .sub1{
+        height: auto;
+        width: 90%;
+    }
+    .sub h1{
+        font-size: 38px;
+    }
+    .sub1 input{
+        margin-bottom: 20px;
+    }
+    .sub1 button{
+        margin-bottom: 20px;
+    }
+    .brand{
+        width: 90%;
+        height: auto;
+    }
+    .brand .a{
+        width: 50%;
+        height: 100px;
+    }
+    
+    footer{
+        width: 90%;
+        height: auto;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+    }
+    footer .a{
+        width: 45%;
+    }
+    footer .b{
+        width: 45%;
+    }
+
+}
+
+
+
+
+
+@media(max-width:576px){
+
+    header{
+        display: flex;
+        flex-direction: column;
+        height: auto;
+    }
+    .logo{
+        width: 100%;
+        height: 50px;
+    }
+    .menu{
+        width: 100%;
+        height: 50px;
+    }
+    .icon{
+        display: none;
+    }
+
+    .home{
+        display: flex;
+        flex-direction: column;
+        height: auto;
+    }
+    .home .home1{
+        margin-top: 20px;
+        height: auto;
+        width: 90%;
+    }
+    .home .home1 h1{
+        font-size: 50px;
+        line-height: 60px;
+    }
+    .home .home1 p{
+        font-size: 16px;
+    }
+    .home .home1 button{
+        height: 40px;
+        width: 150px;
+    }
+
+    .home .home2{
+        margin-top: 50px;
+        width: 90%;
+        height: auto;
+    }
+    .home .home2 img{
+        width: 100%;
+        height: auto;
+    }
+    .featured{
+        height: auto;
+        width: 100%;
+    }
+    .featured2{
+        height: auto;
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        margin-left: 0%;
+    }
+    .featured2 .f1{
+        width: 90%;
+        height: 450px;
+    }
+    .featured2 .con{
+        margin: 0;
+    }
+    .featured2 .f2{
+        width: 90%;
+        height: 450px;
+        margin-top: 20px;
+    }
+    
+    .featured3{
+        height: auto;
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        margin-left: 0%;
+    }
+    .featured3 .f1{
+        width: 90%;
+        height: 450px;
+        margin-top: 20px;
+    }
+    .featured3 .f1 img{
+        height: auto;
+        width: 100%;
+    }
+
+    .featured3 .con{
+        margin: 0;
+    }
+    .featured3 .f2{
+        width: 90%;
+        height: 450px;
+        display: flex;
+        flex-direction: column;
+        margin-top: 20px;
+    }
+    .aewsome{
+        height: auto;
+        width: 100%;
+    }
+    .aewsome1{
+        height: 120px;
+        width: 85%;
+    }
+    .aewsome1 h1{
+        font-size: 30px;
+        margin-top: 20px;
+    }
+    .aewsome1 span{
+        margin-left: 20px;
+    }
+    .aewsome1 h5{
+        margin: 0;
+        bottom: 0;
+    }
+    .aewsome2{
+        height: auto;
+        display: flex;
+        flex-direction: column;
+        width: 70%;
+    }
+    .aewsome2 .a1{
+        /* height: 500px; */
+        width: 100%;
+    }
+    .aewsome3{
+        height: auto;
+        display: flex;
+        flex-direction: column;
+        width: 70%;
+    }
+    .aewsome3 .a1{
+        /* height: 500px; */
+        width: 100%;
+    }
+    .weekly{
+        height: auto;
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+    }
+    .weekly .img{
+        display: flex;
+        flex-direction: column;
+        height: auto;
+        width: 100%;
+    }
+    .weekly .wek{
+
+        height: auto;
+        width: 100%;
+    }
+    .wek h1{
+        font-size: 30px;
+    }
+    .wek input{
+        width: 280px;
+        margin-left: 20px;
+        margin-bottom: 20px;
+    }
+    .best{
+        height: auto;
+        width: 100%;
+    }
+    .best2{
+        height: auto;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        width: 70%;
+    }
+    .best2 .a1{
+        width: 70%;
+        margin-top: 20px;
+    }
+    .sub{
+        height: auto;
+        width: 100%;
+    }
+    .sub .sub1{
+        height: auto;
+        width: 90%;
+    }
+    .sub h1{
+        font-size: 38px;
+    }
+    .sub1 input{
+        margin-bottom: 20px;
+    }
+    .sub1 button{
+        margin-bottom: 20px;
+    }
+    .brand{
+        width: 90%;
+        height: auto;
+    }
+    .brand .a{
+        width: 50%;
+        height: 100px;
+    }
+    
+    footer{
+        width: 90%;
+        height: auto;
+        margin-left: 10%;
+        display: flex;
+        flex-direction: column;
+    }
+    footer .a{
+        width: 100%;
+    }
+    footer .b{
+        width: 100%;
+    }
+
+}
+
+
+
+@media(max-width:480px){
+
+    header{
+        display: flex;
+        flex-direction: column;
+        height: auto;
+    }
+    .logo{
+        width: 100%;
+        height: 50px;
+    }
+    .menu{
+        width: 100%;
+        height: 50px;
+    }
+    .icon{
+        display: none;
+    }
+
+    .home{
+        display: flex;
+        flex-direction: column;
+        height: auto;
+    }
+    .home .home1{
+        margin-top: 20px;
+        height: auto;
+        width: 90%;
+    }
+    .home .home1 h1{
+        font-size: 50px;
+        line-height: 60px;
+    }
+    .home .home1 p{
+        font-size: 16px;
+    }
+    .home .home1 button{
+        height: 40px;
+        width: 150px;
+    }
+
+    .home .home2{
+        margin-top: 50px;
+        width: 90%;
+        height: auto;
+    }
+    .home .home2 img{
+        width: 100%;
+        height: auto;
+    }
+    .featured{
+        height: auto;
+        width: 100%;
+    }
+    .featured2{
+        height: auto;
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        margin-left: 0%;
+    }
+    .featured2 .f1{
+        width: 90%;
+        height: 450px;
+    }
+    .featured2 .con{
+        margin: 0;
+    }
+    .featured2 .f2{
+        width: 90%;
+        height: 450px;
+        margin-top: 20px;
+    }
+    
+    .featured3{
+        height: auto;
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        margin-left: 0%;
+    }
+    .featured3 .f1{
+        width: 90%;
+        height: 450px;
+        margin-top: 20px;
+    }
+    .featured3 .f1 img{
+        height: auto;
+        width: 100%;
+    }
+
+    .featured3 .con{
+        margin: 0;
+    }
+    .featured3 .f2{
+        width: 90%;
+        height: 450px;
+        display: flex;
+        flex-direction: column;
+        margin-top: 20px;
+    }
+    .aewsome{
+        height: auto;
+        width: 100%;
+    }
+    .aewsome1{
+        height: 120px;
+        width: 85%;
+    }
+    .aewsome1 h1{
+        font-size: 30px;
+        margin-top: 20px;
+    }
+    .aewsome1 span{
+        margin-left: 20px;
+    }
+    .aewsome1 h5{
+        margin: 0;
+        bottom: 0;
+    }
+    .aewsome2{
+        height: auto;
+        display: flex;
+        flex-direction: column;
+        width: 70%;
+    }
+    .aewsome2 .a1{
+        /* height: 500px; */
+        width: 100%;
+    }
+    .aewsome3{
+        height: auto;
+        display: flex;
+        flex-direction: column;
+        width: 70%;
+    }
+    .aewsome3 .a1{
+        /* height: 500px; */
+        width: 100%;
+    }
+    .weekly{
+        height: auto;
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+    }
+    .weekly .img{
+        display: flex;
+        flex-direction: column;
+        height: auto;
+        width: 100%;
+    }
+    .weekly .wek{
+
+        height: auto;
+        width: 100%;
+    }
+    .wek h1{
+        font-size: 30px;
+    }
+    .wek input{
+        width: 280px;
+        margin-left: 20px;
+        margin-bottom: 20px;
+    }
+    .best{
+        height: auto;
+        width: 100%;
+    }
+    .best2{
+        height: auto;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        width: 85%;
+    }
+    .best2 .a1{
+        width: 70%;
+        margin-top: 20px;
+    }
+    .sub{
+        height: auto;
+        width: 100%;
+    }
+    .sub .sub1{
+        height: auto;
+        width: 90%;
+    }
+    .sub h1{
+        font-size: 38px;
+    }
+    .sub1 input{
+        margin-bottom: 20px;
+    }
+    .sub1 button{
+        margin-bottom: 20px;
+    }
+    .brand{
+        width: 90%;
+        height: auto;
+    }
+    .brand .a{
+        width: 50%;
+        height: 100px;
+    }
+    
+    footer{
+        width: 90%;
+        height: auto;
+        margin-left: 10%;
+        display: flex;
+        flex-direction: column;
+    }
+    footer .a{
+        width: 100%;
+    }
+    footer .b{
+        width: 100%;
+    }
+
+}
