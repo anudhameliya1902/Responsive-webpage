@@ -1,0 +1,746 @@
+@media(max-width:980px){
+    
+    .about1{
+        height: 550px;
+        width: 50%;
+    }
+    
+    .about2{
+        height: auto;
+        width: 40%;
+    }
+    .people .people2{
+        height: auto;
+        width: 100%;
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: space-evenly;
+    }
+
+    .testimo .testimo2{
+        width: 90%;
+        height: auto;
+    }
+
+    .contact{
+        display: flex;
+        justify-content: space-evenly;
+        height: auto;
+    }
+    .contact .con1{
+        width: 50%;
+        height: auto;
+    }
+
+}
+
+
+
+
+@media(max-width:720px)
+{
+    header{
+        height: auto;
+        width: 100%;
+    }
+
+    .sub-header1{
+        height: 100px;
+        width: 100%;
+    }
+
+    .sub-header1 .logo{
+        height: 50px;
+        width: 20%;
+    }
+
+    .sub-header1 .menu{
+        height: auto;
+        width: 80%;
+    }
+    .sub-header1 .menu nav{
+        height: auto;
+        width: 100%;
+    }
+    .sub-header1 .menu nav ul li{
+        font-size: 16px;
+    }
+    .sub-header1 .menu button{
+        height: 40px;
+        width: 120px;
+        font-size: 12px;
+    }
+
+    .homecon{
+        height: 350px;
+        width: 100%;
+    }
+    .box{
+        height: 150px;
+        width: 45%;
+        position: absolute;
+        left: 25%;
+        top: 25%;
+        transform: rotate(135deg);
+    }
+
+    .homecon .p{
+        font-size: 14px;
+    }
+    .homecon h1{
+        font-size: 50px;
+    }
+    .homecon h3{
+        font-size: 18px;
+    }
+    .homecon h6{
+        font-size: 18px;
+    }
+    .homecon button{
+        height: 45px;
+        width: 150px;
+        font-size: 14px;
+    }
+
+    .about{
+        display: flex;
+        flex-direction: column;
+        height: auto;
+        align-items: center;
+    }
+
+    .about1{
+        height: 550px;
+        width: 90%;
+    }
+    
+    .about2{
+        margin-top: 20px;
+        height: auto;
+        width: 90%;
+        margin-bottom: 20px;
+    }
+
+    .about2 button{
+        margin-left: 35%;
+    }
+
+    .people{
+        height: auto;
+        width: 100%;
+    }
+    .people .people1{
+        height: 150px;
+        width: 100%;
+    }
+    .people1 h1{
+        font-size: 50px;
+    }
+    .people .people2{
+        height: auto;
+        width: 100%;
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: space-evenly;
+    }
+    .people2 .p1{
+        width:45%;
+        height: 450px;
+        margin-bottom: 20px;
+        background-position: center;
+        background-size: cover;
+    }
+    .people2 .p2{
+        width: 45%;
+        height: 450px;
+        margin-bottom: 20px;
+    }    
+    .people2 .p3{
+        width: 45%;
+        margin-bottom: 20px;
+        height: 450px;
+    }
+    .people2 .p4{
+        width: 45%;
+        height: 450px;
+        margin-bottom: 20px;
+
+    }
+
+    .our{
+        height: auto;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .our .our1{
+        margin-top: 50px;
+        width: 90%;
+        height: auto;
+        margin-bottom: 50px;
+    }
+    .our .our2{
+        width: 90%;
+        height: auto;
+        margin-bottom: 50px;
+    }
+
+    .testimo{
+        height: auto;
+    }
+    
+    .testimo .testimo2{
+        width: 90%;
+        height: auto;
+        align-items: center;
+    }
+    .testimo .testimo2 .t1{
+        width: 90%;
+        height: 300px;
+        margin-bottom: 20px;
+    }
+    .testimo .testimo2 .t2{
+        width: 90%;
+        height: 300px;
+        align-self: center;
+        margin-bottom: 20px;
+    }
+    .testimo .testimo2 .t2{
+        width: 90%;
+        height: 300px;
+        align-self: center;
+    }
+
+    .contact{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        height: auto;
+    }
+    .contact .con1{
+        width: 70%;
+        height: auto;
+    }
+    #email{
+        margin-left: 0px;
+    }
+    .contact .con1 button{
+        margin-bottom: 20px;
+    }
+
+    .contact .con2{
+        height: auto;
+        width: 70%;
+        margin-top: 25px;
+    }
+    .contact .con2 .map{
+        height: 300px;
+        width: 100%;
+    }
+
+    footer .f{
+        width: 100%;
+        height: auto;
+        display: flex;
+        align-items: flex-start;
+
+    }
+
+    footer .f .f1{
+        height: auto;
+        width: 80%;
+        margin-bottom: 30px;
+    }
+    footer .f .f2{
+        height: auto;
+        width: 80%;
+        margin-bottom: 30px;
+    }
+    footer .f .f3{
+        height: auto;
+        width: 85%;
+        margin-bottom: 30px;
+    }
+    footer .f h1{
+        margin-bottom: 10px;
+    }
+
+}
+
+
+
+
+
+@media(max-width:576px)
+{
+    header{
+        height: auto;
+        width: 100%;
+    }
+
+    .sub-header1{
+        height: auto;
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .sub-header1 .logo{
+        height: 50px;
+        width: 50%;
+        align-self: flex-start;
+    }
+
+    .sub-header1 .menu{
+        height: auto;
+        width: 100%;
+    }
+    .sub-header1 .menu nav{
+        height: auto;
+        width: 100%;
+    }
+    .sub-header1 .menu nav ul li{
+        font-size: 14px;
+    }
+    .sub-header1 .menu button{
+        height: 30px;
+        width: 100px;
+        font-size: 10px;
+    }
+
+    .homecon{
+        height: 350px;
+        width: 100%;
+    }
+    .box{
+        height: 150px;
+        width: 50%;
+        position: absolute;
+        left: 25%;
+        top: 25%;
+        transform: rotate(135deg);
+    }
+
+    .homecon .p{
+        font-size: 12px;
+    }
+    .homecon h1{
+        font-size: 40px;
+    }
+    .homecon h3{
+        font-size: 16px;
+    }
+    .homecon h6{
+        font-size: 16px;
+    }
+    .homecon button{
+        height: 38px;
+        width: 100px;
+        font-size: 12px;
+    }
+
+    .about{
+        display: flex;
+        flex-direction: column;
+        height: auto;
+        align-items: center;
+    }
+
+    .about1{
+        height: 550px;
+        width: 90%;
+    }
+    
+    .about2{
+        margin-top: 20px;
+        height: auto;
+        width: 90%;
+        margin-bottom: 20px;
+    }
+
+    .about2 button{
+        margin-left: 35%;
+    }
+
+    .people{
+        height: auto;
+        width: 100%;
+    }
+    .people .people1{
+        height: 150px;
+        width: 100%;
+    }
+    .people1 h1{
+        font-size: 40px;
+    }
+    .people .people2{
+        height: auto;
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-evenly;
+    }
+    .people2 .p1{
+        width:70%;
+        height: 550px;
+        margin-bottom: 20px;
+        background-position: center;
+        background-size: cover;
+    }
+    .people2 .p2{
+        width: 70%;
+        height: 550px;
+        margin-bottom: 20px;
+    }    
+    .people2 .p3{
+        width: 70%;
+        margin-bottom: 20px;
+        height: 550px;
+    }
+    .people2 .p4{
+        width: 70%;
+        height: 550px;
+    }
+
+    .our{
+        height: auto;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .our .our1{
+        margin-top: 50px;
+        width: 90%;
+        height: auto;
+        margin-bottom: 50px;
+    }
+    .our .our2{
+        width: 90%;
+        height: auto;
+        margin-bottom: 50px;
+    }
+
+    .testimo{
+        height: auto;
+    }
+    
+    .testimo .testimo2{
+        width: 90%;
+        height: auto;
+        align-items: center;
+    }
+    .testimo .testimo2 .t1{
+        width: 90%;
+        height: 300px;
+        margin-bottom: 20px;
+    }
+    .testimo .testimo2 .t2{
+        width: 90%;
+        height: 300px;
+        align-self: center;
+        margin-bottom: 20px;
+    }
+    .testimo .testimo2 .t2{
+        width: 90%;
+        height: 300px;
+        align-self: center;
+    }
+
+    .contact{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        height: auto;
+    }
+    .contact .con1{
+        width: 100%;
+        height: auto;
+    }
+    #email{
+        margin-left: 0px;
+    }
+    .contact .con1 button{
+        margin-bottom: 20px;
+    }
+
+    .contact .con2{
+        height: auto;
+        width: 90%;
+        margin-top: 25px;
+    }
+    .contact .con2 .map{
+        height: 300px;
+        width: 100%;
+    }
+
+    footer .f{
+        width: 80%;
+        height: auto;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+
+    }
+
+    footer .f .f1{
+        height: auto;
+        width: 80%;
+        margin-bottom: 30px;
+    }
+    footer .f .f2{
+        height: auto;
+        width: 80%;
+        margin-bottom: 30px;
+    }
+    footer .f .f3{
+        height: auto;
+        width: 85%;
+        margin-bottom: 30px;
+    }
+    footer .f h1{
+        margin-bottom: 10px;
+    }
+
+}
+
+
+
+
+
+
+@media(max-width:480px)
+{
+    header{
+        height: auto;
+        width: 100%;
+    }
+
+    .sub-header1{
+        height: auto;
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .sub-header1 .logo{
+        height: 50px;
+        width: 50%;
+        align-self: flex-start;
+    }
+
+    .sub-header1 .menu{
+        height: auto;
+        width: 100%;
+    }
+    .sub-header1 .menu nav{
+        height: auto;
+        width: 100%;
+    }
+    .sub-header1 .menu nav ul li{
+        font-size: 14px;
+    }
+    .sub-header1 .menu button{
+        height: 30px;
+        width: 100px;
+        font-size: 10px;
+    }
+
+    .homecon{
+        height: 350px;
+        width: 100%;
+    }
+    .box{
+        height: 150px;
+        width: 50%;
+        position: absolute;
+        left: 25%;
+        top: 25%;
+        transform: rotate(135deg);
+    }
+
+    .homecon .p{
+        font-size: 12px;
+    }
+    .homecon h1{
+        font-size: 40px;
+    }
+    .homecon h3{
+        font-size: 16px;
+    }
+    .homecon h6{
+        font-size: 16px;
+    }
+    .homecon button{
+        height: 38px;
+        width: 100px;
+        font-size: 12px;
+    }
+
+    .about{
+        display: flex;
+        flex-direction: column;
+        height: auto;
+        align-items: center;
+    }
+
+    .about1{
+        height: 550px;
+        width: 90%;
+    }
+    
+    .about2{
+        margin-top: 20px;
+        height: auto;
+        width: 90%;
+        margin-bottom: 20px;
+    }
+
+    .about2 button{
+        margin-left: 35%;
+    }
+
+    .people{
+        height: auto;
+        width: 100%;
+    }
+    .people .people1{
+        height: 150px;
+        width: 100%;
+    }
+    .people1 h1{
+        font-size: 40px;
+    }
+    .people .people2{
+        height: auto;
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-evenly;
+    }
+    .people2 .p1{
+        width: 60%;
+        height: 400px;
+        margin-bottom: 20px;
+    }
+    .people2 .p2{
+        width: 60%;
+        height: 400px;
+        margin-bottom: 20px;
+    }    
+    .people2 .p3{
+        width: 60%;
+        margin-bottom: 20px;
+        height: 400px;
+    }
+    .people2 .p4{
+        width: 60%;
+        height: 400px;
+    }
+
+    .our{
+        height: auto;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .our .our1{
+        margin-top: 50px;
+        width: 90%;
+        height: auto;
+        margin-bottom: 50px;
+    }
+    .our .our2{
+        width: 90%;
+        height: auto;
+        margin-bottom: 50px;
+    }
+
+    .testimo{
+        height: auto;
+    }
+    
+    .testimo .testimo2{
+        width: 90%;
+        height: auto;
+        align-items: center;
+    }
+    .testimo .testimo2 .t1{
+        width: 90%;
+        height: 300px;
+        margin-bottom: 20px;
+    }
+    .testimo .testimo2 .t2{
+        width: 90%;
+        height: 300px;
+        align-self: center;
+        margin-bottom: 20px;
+    }
+    .testimo .testimo2 .t2{
+        width: 90%;
+        height: 300px;
+        align-self: center;
+    }
+
+    .contact{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        height: auto;
+    }
+    .contact .con1{
+        width: 100%;
+        height: auto;
+    }
+    #email{
+        margin-left: 0px;
+    }
+    .contact .con1 button{
+        margin-bottom: 20px;
+    }
+
+    .contact .con2{
+        height: auto;
+        width: 90%;
+        margin-top: 25px;
+    }
+    .contact .con2 .map{
+        height: 300px;
+        width: 100%;
+    }
+
+    footer .f{
+        width: 80%;
+        height: auto;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+
+    }
+
+    footer .f .f1{
+        height: auto;
+        width: 80%;
+        margin-bottom: 30px;
+    }
+    footer .f .f2{
+        height: auto;
+        width: 80%;
+        margin-bottom: 30px;
+    }
+    footer .f .f3{
+        height: auto;
+        width: 85%;
+        margin-bottom: 30px;
+    }
+    footer .f h1{
+        margin-bottom: 10px;
+    }
+
+}
