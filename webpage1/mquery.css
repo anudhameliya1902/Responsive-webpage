@@ -1,0 +1,517 @@
+@media(max-width:980px)
+{
+    .hed2 nav{
+        width: 70%;
+    }
+    .hed2 nav ul li{
+        font-size: 18px;
+    }
+    .hed2 .cart a{
+        font-size: 18px;
+    }
+
+    header .hed3{
+        font-size: 20px;
+    }
+
+
+    .gender .men{
+        width: 45%;        
+    }
+    .gender .men1{
+        width: 45%;
+    }
+    .gender .women{
+        width: 45%;    
+    }    
+    .gender .women1{
+        width: 45%;
+    }
+    .sec4{
+        width: 90%;
+        margin-left: 5%;
+        height: 150px;
+    }
+
+    .best{
+        width: 100%;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+        height: auto;
+        margin-left: 0%;
+    }
+
+    .best .a{
+        width: 45%;
+        height: auto;
+        margin-top: 20px;
+    }
+
+    .best .a h1{
+        margin-top: 20px;
+        font-size: 25px;
+    } 
+    .best .a h5{
+        margin-top: 20px;
+        font-size: 25px;
+    }
+
+    .trusted{
+        height: auto;
+    }
+    .partner{
+        width: 100%;
+        margin: 0%;
+        height: auto;
+    }
+    .partner .a{
+        width: 20%;
+        margin-top: 20px;
+    }
+    
+    footer{
+        margin-top: 50px;
+        height: auto;
+        display: flex;
+        justify-content: space-evenly;
+        flex-wrap: wrap;
+    }
+
+    footer .a{
+        width: 20%;
+        height: auto;   
+        display: flex;
+        margin-bottom: 30px;
+    }
+
+    footer .a span{
+        text-transform: uppercase;
+        color: grey;
+        margin-bottom:20px ;
+        font-size: 10px;
+    }
+    footer .a h1{
+        font-size: 14px;
+    }
+
+    footer .a p{
+        margin-right: 15px;
+    }
+
+}
+
+
+
+
+
+@media(max-width:720px)
+{
+    header .hed1{
+        width: 100%;
+        height: auto;
+    }
+
+    header .hed2{
+        width: 100%;
+        height: auto;
+    }
+
+    .hed2 nav{
+        width: 60%;
+    }
+    .hed2 nav ul li{
+        font-size: 18px;
+    }
+    .hed2 .cart a{
+        font-size: 18px;
+    }
+
+    header .hed3{
+        font-size: 20px;
+    }
+
+        /* HOME*/
+    
+        .home .content h1{
+            font-size: 35px;
+        }
+        .home .content h2{
+            font-size: 30px;
+        }
+        .home .content h3{
+            font-size: 24px;
+        }
+        .home .content p{
+            margin-top: 15px;
+            font-size: 16px;
+        }
+        .home .content button{
+            height: 45px;
+            width: 180px;
+            font-size: 10px;
+        }
+
+        .sec3{
+            font-size: 10px;
+            width: 90%;
+            margin-left: 5%;
+            height: auto;
+        }
+    
+        .gender{
+            flex-wrap: nowrap;
+            height: auto;
+        }
+        .gender .men{
+            width: 90%;        
+        }
+        .gender .men1{
+            width: 90%;
+        }
+        .gender .women{
+            width: 90%;    
+        }    
+        .gender .women1{
+            width: 90%;
+        }
+        .sec4{
+            width: 90%;
+            margin-left: 5%;
+            height: 150px;
+        }
+
+        .best{
+            width: 100%;
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-between;
+            height: auto;
+            margin-left: 0%;
+        }
+    
+        .best .a{
+            width: 45%;
+            height: auto;
+            margin-top: 20px;
+        }
+    
+        .best .a h1{
+            margin-top: 18px;
+            font-size: 20px;
+        } 
+        .best .a h5{
+            margin-top: 10px;
+            font-size: 16px;
+        }
+        .but button{
+            height: 50px;
+        }
+
+    .trusted{
+        height: auto;
+    }
+    .partner{
+        width: 100%;
+        margin: 0%;
+        height: auto;
+    }
+    .partner .a{
+        width: 45%;
+        margin-top: 20px;
+    }
+    footer{
+        margin-top: 50px;
+        height: auto;
+        display: flex;
+        justify-content: space-evenly;
+        flex-wrap: wrap;
+    }
+
+    footer .a{
+        width: 40%;
+        height: auto;   
+        display: flex;
+        margin-bottom: 30px;
+    }
+
+
+}
+
+
+@media(max-width:576px)
+{
+    header .hed1{
+        width: 100%;
+        height: auto;
+    }
+
+    header .hed2{
+        width: 100%;
+        height: auto;
+    }
+    .hed2 nav{
+        width: 70%;
+    }
+    .hed2 nav ul li{
+        font-size: 18px;
+    }
+    .hed2 .cart a{
+        font-size: 18px;
+    }
+
+    header .hed3{
+        font-size: 20px;
+    }
+
+    /* HOME*/
+    
+    .home .content h1{
+        font-size: 35px;
+    }
+    .home .content h2{
+        font-size: 30px;
+    }
+    .home .content h3{
+        font-size: 24px;
+    }
+    .home .content p{
+        margin-top: 15px;
+        font-size: 16px;
+    }
+    .home .content button{
+        height: 45px;
+        width: 180px;
+        font-size: 10px;
+    }
+
+    .sec3{
+        font-size: 10px;
+        width: 90%;
+        margin-left: 5%;
+        height: auto;
+    }
+
+    .gender{
+        flex-wrap: nowrap;
+        height: auto;
+    }
+    .gender .men{
+        width: 90%;        
+    }
+    .gender .men1{
+        width: 90%;
+    }
+    .gender .women{
+        width: 90%;    
+    }    
+    .gender .women1{
+        width: 90%;
+    }
+    .sec4{
+        width: 90%;
+        margin-left: 5%;
+        height: 150px;
+    }
+
+    .best{
+        width: 100%;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        height: auto;
+        margin-left: 0%;
+    }
+
+    .best .a{
+        width: 90%;
+        height: auto;
+        margin-top: 20px;
+    }
+
+    .best .a h1{
+        margin-top: 40px;
+        font-size: 25px;
+    } 
+    .best .a h5{
+        margin-top: 30px;
+        font-size: 25px;
+    } 
+
+    .trusted{
+        height: auto;
+    }
+    .partner{
+        width: 100%;
+        margin: 0%;
+        height: auto;
+    }
+    .partner .a{
+        width: 45%;
+        margin-top: 20px;
+    }
+
+    footer{
+        margin-top: 50px;
+        height: auto;
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+
+    footer .a{
+        width: 80%;
+        height: auto;   
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-bottom: 30px;
+    }
+
+
+}
+
+
+
+@media(max-width:480px)
+{
+    header .hed1{
+        width: 100%;
+        height: auto;
+    }
+
+    header .hed2{
+        width: 100%;
+        height: auto;
+    }
+    .hed2 nav{
+        width: 70%;
+    }
+    .hed2 nav ul li{
+        font-size: 14px;
+    }
+    .hed2 .cart a{
+        font-size: 14px;
+    }
+
+    header .hed3{
+        font-size: 18px;
+    }
+
+    /* HOME*/
+
+    .home .content h1{
+        font-size: 30px;
+    }
+    .home .content h2{
+        font-size: 25px;
+    }
+    .home .content h3{
+        font-size: 20px;
+    }
+    .home .content p{
+        margin-top: 20px;
+        font-size: 14px;
+    }
+    .home .content button{
+        height: 40px;
+        width: 150px;
+        font-size: 10px;
+    }
+
+    .sec3{
+        font-size: 10px;
+        width: 90%;
+        margin-left: 5%;
+        height: auto;
+    }
+
+    .gender{
+        flex-wrap: nowrap;
+        height: auto;
+    }
+    .gender .men{
+        width: 90%;        
+    }
+    .gender .men1{
+        width: 90%;
+    }
+    .gender .women{
+        width: 90%;    
+    }    
+    .gender .women1{
+        width: 90%;
+    }
+    .sec4{
+        width: 90%;
+        margin-left: 5%;
+        height: 150px;
+    }
+
+    .best{
+        width: 100%;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        height: auto;
+        margin-left: 0%;
+    }
+
+    .best .a{
+        width: 90%;
+        margin-top: 20px;
+        height: auto;
+    }
+    .best .a h1{
+        margin-top: 40px;
+        font-size: 25px;
+    } 
+    .best .a h5{
+        margin-top: 30px;
+        font-size: 25px;
+    } 
+
+    .but button{
+        height: 50px;
+    }
+
+    .trusted{
+        height: auto;
+    }
+    .partner{
+        width: 100%;
+        margin: 0%;
+        height: auto;
+    }
+    .partner .a{
+        width: 45%;
+        margin-top: 20px;
+    }
+
+    footer{
+        margin-top: 50px;
+        height: auto;
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+
+    footer .a{
+        width: 80%;
+        height: auto;   
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-bottom: 30px;
+    }
+
+
+}
+
+
+
+
+
+
+
+
